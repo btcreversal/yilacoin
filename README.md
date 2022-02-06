@@ -26,16 +26,21 @@ Yilacoin uses double SHA3-256 instead of double SHA-256, which is more secure. S
 
 Release Notes
 =======
+v1.0.3
+-------
+* Windows wallet bug fixed where it showed database corrupted for some users
+* Chain params updated
+
 v1.0.2
 -------
-* Algorthm Fixed.
-* Chain params updated.
+* Algorthm Fixed
+* Chain params updated
 
 v1.0.1
 -------
-* RPC commands `sendtoaddress` and `getbalance` fixed.
-* Example addresses fixed.
-* Chain params updated.
+* RPC commands `sendtoaddress` and `getbalance` fixed
+* Example addresses fixed
+* Chain params updated
 
 v1.0.0
 -------
