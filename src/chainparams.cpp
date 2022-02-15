@@ -280,6 +280,8 @@ public:
             vSeeds.emplace_back("signet-seed.yilacoin.eu.org");
             vSeeds.emplace_back("signet-seed2.yilacoin.eu.org");
             vSeeds.emplace_back("signet-seed.yilacoin.dns.army");
+            vSeeds.emplace_back("51.195.249.132");
+            
 
             consensus.nMinimumChainWork = uint256{};
             consensus.defaultAssumeValid = uint256{};
